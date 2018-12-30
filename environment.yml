@@ -4,6 +4,7 @@ channels:
   - NLeSC
 dependencies:
   - python
+  - root
   - numpy 
   - pytables
   - rootpy

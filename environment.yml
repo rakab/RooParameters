@@ -1,0 +1,9 @@
+name: example-environment
+channels:
+  - conda-forge
+  - NLeSC
+dependencies:
+  - python
+  - numpy 
+  - pytables
+  - rootpy
